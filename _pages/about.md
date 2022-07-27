@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master student in Computer Engineering at New York University Tandon School of Engineering.
+"I am a Master student in Computer Engineering at New York University Tandon School of Engineering."
 
 
 For more info
