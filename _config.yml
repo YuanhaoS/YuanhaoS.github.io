@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yuanhao Shi"
-  avatar           : "profile.png"
+  avatar           : #"profile.png"
   bio              : "Master student at New York University"
   location         : "New York, NY"
   employer         :
