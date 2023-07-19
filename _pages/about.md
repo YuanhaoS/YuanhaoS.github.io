@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-------
+-------
 
 This is Yuanhao Shi's home on the web!
 
