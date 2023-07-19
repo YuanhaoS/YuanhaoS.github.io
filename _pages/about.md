@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +7,6 @@ redirect_from:
 ---
 
 ## About Me
------
 
 This is Yuanhao Shi's home on the web!
 
@@ -20,7 +18,7 @@ Feel free to explore my profile and contact [me](mailto:shi.1222@osu.edu) for mo
 
 
 ## My work and research
-------
+
 Throughout my academic journey, I excelled in the fascinating realm of Astronomy and Astrophysics. I am deeply fascinated by the wonders of the cosmos and dedicated to conducting research in this field.
 
 I have a particular interest in exploring the correlation between chemical abundance and orbital characteristics of stars across the galactic disk. My approach involves employing spectroscopy and photometry techniques, utilizing datasets from prominent sources such as APOGEE, Kepler, and LAMOST. By analyzing these datasets, I aim to gain deeper insights into the intricate relationship between stellar composition and their orbital properties.
