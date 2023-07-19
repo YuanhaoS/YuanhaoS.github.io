@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
--------
+## About Me
+-----
 
 This is Yuanhao Shi's home on the web!
 
@@ -19,7 +19,7 @@ In the summer of 2023, I am an intern research assistant in the [National Astron
 Feel free to explore my profile and contact [me](mailto:shi.1222@osu.edu) for more information!
 
 
-My work and research
+## My work and research
 ------
 Throughout my academic journey, I excelled in the fascinating realm of Astronomy and Astrophysics. I am deeply fascinated by the wonders of the cosmos and dedicated to conducting research in this field.
 
