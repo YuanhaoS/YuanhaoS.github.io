@@ -1,14 +1,13 @@
 ---
 permalink: /
-title: # "About me"
-excerpt: # "About me"
+title: "About me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-About Me
 ------
 
 This is Yuanhao Shi's home on the web!
