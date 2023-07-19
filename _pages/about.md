@@ -1,11 +1,12 @@
 ---
 permalink: /
 author_profile: true
+title: "About me"
 redirect_from: 
   - /about/
   - /about.html
 ---
-## About Me
+
 This is Yuanhao Shi's home on the web!
 
 I am a Master student in Computer Engineering at [New York University Tandon School of Engineering](https://engineering.nyu.edu/). I am a passionate individual who obtained dual bachelor's degrees in Physics and Astronomy from [The Ohio State University](https://astronomy.osu.edu/), with research Distinction in Astronomy and Astrophysics. 
@@ -15,7 +16,8 @@ In the summer of 2023, I am an intern research assistant in the [National Astron
 Feel free to explore my profile and contact [me](mailto:shi.1222@osu.edu) for more information!
 
 
-## My work and research
+My work and research
+======
 
 Throughout my academic journey, I excelled in the fascinating realm of Astronomy and Astrophysics. I am deeply fascinated by the wonders of the cosmos and dedicated to conducting research in this field.
 
