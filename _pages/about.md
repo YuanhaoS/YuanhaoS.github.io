@@ -17,7 +17,7 @@ Feel free to explore my profile and contact [me](mailto:shi.1222@osu.edu) for mo
 
 
 My work and research
-======
+------
 
 Throughout my academic journey, I excelled in the fascinating realm of Astronomy and Astrophysics. I am deeply fascinated by the wonders of the cosmos and dedicated to conducting research in this field.
 
