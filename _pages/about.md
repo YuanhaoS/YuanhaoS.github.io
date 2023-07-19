@@ -6,8 +6,6 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
-
 This is Yuanhao Shi's home on the web!
 
 I am a Master student in Computer Engineering at [New York University Tandon School of Engineering](https://engineering.nyu.edu/). I am a passionate individual who obtained dual bachelor's degrees in Physics and Astronomy from [The Ohio State University](https://astronomy.osu.edu/), with research Distinction in Astronomy and Astrophysics. 
